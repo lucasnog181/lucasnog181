@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a target="_blank" href="https://https://br.linkedin.com/in/lucas-nogueira-7b06b31b0/">
+<a target="_blank" href="https://br.linkedin.com/in/lucas-nogueira-7b06b31b0/">
   <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a target="_blank" href="https://api.whatsapp.com/send?phone=5585989395483">
@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <a target="_blank" href="https://www.instagram.com/codanonaweb/">
   <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a target="_blank" href="mailto:lucasnog17@edu.unifor.br">
+<a target="_blank" href="lucasnog17@edu.unifor.br">
   <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 

@@ -1,17 +1,9 @@
-### Hi there 👋
+### Hello World 🌎
 
+My name is Lucas Sousa , I'm from Brazil 🇧🇷 I'm a Web developer , that
+has been working as a Front-end developer since 2019.👨🏻‍💻
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<hr>
 
 ### Contact 📱
 
@@ -29,6 +21,8 @@ Here are some ideas to get you started:
 </a>
 <br>
 <br>
+
+<hr>
 
 ## Skill 📚
 

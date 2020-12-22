@@ -3,6 +3,8 @@
 My name is Lucas Sousa , I'm from Brazil. I'm a Web developer , that
 has been working as a Front-end developer since 2019.👨🏻‍💻
 
+<br>
+<br>
 
 ## Skill 📚
 

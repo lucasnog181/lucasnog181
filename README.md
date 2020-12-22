@@ -19,7 +19,8 @@ has been working as a Front-end developer since 2019.👨🏻‍💻
 <br>
 <br>
 
-[![card](https://github-readme-stats.vercel.app/api?username=lucasnog181&theme=default)](https://github.com/iuricode/)
+
+[![lucasnog181](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasnog181&hide=html&layout=compact&theme=default)](https://github.com/lucasnog181/)
 
 
 

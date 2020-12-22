@@ -20,7 +20,7 @@ has been working as a Front-end developer since 2019.👨🏻‍💻
 <br>
 
 
-[![lucasnog181](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasnog181&hide=html&layout=compact&theme=Dark)](https://github.com/lucasnog181/)
+[![lucasnog181](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasnog181&hide=html&layout=compact&theme=dark)](https://github.com/lucasnog181/)
 
 
 
